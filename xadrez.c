@@ -9,15 +9,15 @@ int main() {
         printf("direita\n");
     }
 
-    printf("bispo:\n\n");
+    printf("\nbispo:\n\n");
 
     for(int i = 1; i <= p_bispo; i++){
         printf("cima, direita\n");
     }
 
-    printf("rainha:\n\n");
+    printf("\nrainha:\n\n");
 
-    for(int i = 1; i <= p_bispo; i++){
+    for(int i = 1; i <= p_rainha; i++){
         printf("esquerda\n");
     }
 
